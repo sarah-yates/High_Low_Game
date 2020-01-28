@@ -1,5 +1,7 @@
-drawable/
-mipmap/
-values/
-manifests/
-
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+*.iml
