@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">High-Low Game</string>
+    <string name="the_computer_will_pick_a_number_and_you_will_try_to_guess_it_it_will_tell_you_if_you_are_too_high_or_too_low">The computer will pick a number and you will try to guess it! It will tell you if you are too high or too low.</string>
+    <string name="high_low_game">High Low Game</string>
+    <string name="your_guess_50">Your guess (50)</string>
+    <string name="high_low">high/low</string>
+    <string name="submit">Submit</string>
+    <string name="correct_answer">correct answer</string>
+</resources>
